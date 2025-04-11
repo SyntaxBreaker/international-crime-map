@@ -1,4 +1,4 @@
-# International-Crime-Map
+# International Crime Map
 
 International Crime Map is a web application that allows you to discover crimes happening around you. It provides a transparent view of crime incidents worldwide, helping you stay informed.
 
@@ -24,8 +24,8 @@ What you need to install the software and how to install them:
 
 Step-by-step instructions on how to install the project:
 
-1. Clone the repository: `git clone https://github.com/SyntaxBreaker/International-Crime-Map.git`
-2. Navigate to the project directory: `cd International-Crime-Map`
+1. Clone the repository: `git clone git@github.com:SyntaxBreaker/international-crime-map.git`
+2. Navigate to the project directory: `cd international-crime-map`
 3. Install the dependencies: `npm install`
 
 ### Usage

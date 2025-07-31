@@ -40,6 +40,5 @@ Instructions on how to run the development server and build the project for prod
 The project is under the MIT License.
 
 
-## Authors
-
-- [@SyntaxBreaker](https://www.github.com/SyntaxBreaker)
+## Author
+- **[SyntaxBreaker]**: [[GitHub](https://www.github.com/SyntaxBreaker)] [[Website](https://syntaxbreaker.netlify.app)]
